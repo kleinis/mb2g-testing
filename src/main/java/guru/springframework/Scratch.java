@@ -4,5 +4,6 @@ public class Scratch {
   private String comment;
 
   public String getComment(){
+    return comment;
   }
 }
